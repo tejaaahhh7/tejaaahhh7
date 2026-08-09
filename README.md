@@ -23,11 +23,4 @@ Aspiring Software Engineer
 <a href="https://www.github.com/tejaaahhh7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tejaaahhh7?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
-<b>My GitHub Stats</b>
-## 📊 My Contributions
-
-<p align="center">
-  <img src="./assets/contributions.svg" alt="GitHub Contributions" width="829">
-</p>
-
 <a href="http://www.github.com/tejaaahhh7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaaahhh7&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
