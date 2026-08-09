@@ -1,3 +1,3 @@
-gh repo create AVIVASHISHTA29 --public --clone
-        cd AVIVASHISHTA29
+gh repo create tejaaahhh7 --public --clone
+        cd tejaaahhh7
         mkdir -p scripts data .github/workflows
