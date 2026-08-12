@@ -24,3 +24,11 @@ Aspiring Software Engineer
 src="https://img.shields.io/github/followers/tejaaahhh7?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 <a href="http://www.github.com/tejaaahhh7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaaahhh7&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+<div align="center"> <h3><code>tejaaahhh7@github ~ $ whoami</code></h3> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=tejaaahhh7&theme=github-dark&style=terminal&mode=light" />
+</picture></td>
+
+<td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=tejaaahhh7&theme=github-dark&style=terminal&label=Teja+Cheppula&mode=light" />
+</picture></td>
+
+</tr> </table> <p><b>Bachelor of Technology in Computer Science | AI &amp; Networking Enthusiast | Python | HTML | CSS | Building 3D Websites</b></p> <p><a href="https://github.com/tejaaahhh7">GitHub</a></p> </div> <div align="center"> <h3><code>tejaaahhh7@github ~ $ ./contributions.sh</code></h3> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tejaaahhh7&theme=github-dark&style=terminal&mode=light" /> </picture> </div> <p align="center"><sub>Teja Cheppula · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
